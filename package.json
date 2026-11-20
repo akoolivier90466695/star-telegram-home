@@ -1,1 +1,12 @@
 
+{
+  "name": "star-telegram-home",
+  "version": "1.0.0",
+  "description": "Page d'accueil officielle du bot Telegram STAR",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
